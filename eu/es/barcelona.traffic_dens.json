@@ -1,0 +1,6242 @@
+{
+  "weekday": {
+    "barcelona_city": [
+      {
+        "time": "00:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.19,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.16,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.14,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.14,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.13,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.12,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.9,
+          "urban_street": 26.8,
+          "main_road": 44.6,
+          "beltway": 71.4,
+          "highway": 107.1
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.3,
+          "urban_street": 24.4,
+          "main_road": 40.7,
+          "beltway": 65.0,
+          "highway": 97.6
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.7,
+          "urban_street": 23.6,
+          "main_road": 39.4,
+          "beltway": 63.0,
+          "highway": 94.5
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.3,
+          "urban_street": 24.4,
+          "main_road": 40.7,
+          "beltway": 65.0,
+          "highway": 97.6
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.4,
+          "urban_street": 32.1,
+          "main_road": 53.5,
+          "beltway": 85.6,
+          "highway": 128.4
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      }
+    ],
+    "barcelona_metro": [
+      {
+        "time": "00:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.19,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.53,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.9,
+          "urban_street": 32.8,
+          "main_road": 54.7,
+          "beltway": 87.5,
+          "highway": 131.3
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.0,
+          "urban_street": 31.5,
+          "main_road": 52.5,
+          "beltway": 84.0,
+          "highway": 126.0
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.97,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.1,
+          "urban_street": 30.2,
+          "main_road": 50.3,
+          "beltway": 80.5,
+          "highway": 120.7
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.3,
+          "urban_street": 24.4,
+          "main_road": 40.7,
+          "beltway": 65.0,
+          "highway": 97.6
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.32,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.2,
+          "urban_street": 22.7,
+          "main_road": 37.9,
+          "beltway": 60.6,
+          "highway": 90.9
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.33,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.0,
+          "urban_street": 22.6,
+          "main_road": 37.6,
+          "beltway": 60.2,
+          "highway": 90.2
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.1,
+          "urban_street": 16.7,
+          "main_road": 27.8,
+          "beltway": 44.4,
+          "highway": 66.7
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.4,
+          "urban_street": 17.1,
+          "main_road": 28.6,
+          "beltway": 45.7,
+          "highway": 68.6
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.0,
+          "urban_street": 31.5,
+          "main_road": 52.5,
+          "beltway": 84.0,
+          "highway": 126.0
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      }
+    ]
+  },
+  "saturday": {
+    "barcelona_city": [
+      {
+        "time": "00:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.19,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.33,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.4,
+          "urban_street": 32.1,
+          "main_road": 53.5,
+          "beltway": 85.6,
+          "highway": 128.4
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 0.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.0,
+          "urban_street": 31.5,
+          "main_road": 52.5,
+          "beltway": 84.0,
+          "highway": 126.0
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.0,
+          "urban_street": 31.5,
+          "main_road": 52.5,
+          "beltway": 84.0,
+          "highway": 126.0
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      }
+    ],
+    "barcelona_metro": [
+      {
+        "time": "00:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.29,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.24,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.77,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.9,
+          "urban_street": 31.4,
+          "main_road": 52.3,
+          "beltway": 83.7,
+          "highway": 125.5
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.43,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.0,
+          "urban_street": 21.0,
+          "main_road": 35.0,
+          "beltway": 55.9,
+          "highway": 83.9
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.57,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.7,
+          "urban_street": 19.1,
+          "main_road": 31.8,
+          "beltway": 51.0,
+          "highway": 76.4
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      }
+    ]
+  },
+  "sunday": {
+    "barcelona_city": [
+      {
+        "time": "00:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.29,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.24,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.3,
+          "urban_street": 24.4,
+          "main_road": 40.7,
+          "beltway": 65.0,
+          "highway": 97.6
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.42,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.1,
+          "urban_street": 21.1,
+          "main_road": 35.2,
+          "beltway": 56.3,
+          "highway": 84.5
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      }
+    ],
+    "barcelona_metro": [
+      {
+        "time": "00:00",
+        "density": 0.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.34,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.33,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.32,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.29,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.8,
+          "urban_street": 32.7,
+          "main_road": 54.5,
+          "beltway": 87.2,
+          "highway": 130.8
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.68,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.3,
+          "urban_street": 31.9,
+          "main_road": 53.2,
+          "beltway": 85.1,
+          "highway": 127.7
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.33,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.0,
+          "urban_street": 22.6,
+          "main_road": 37.6,
+          "beltway": 60.2,
+          "highway": 90.2
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      }
+    ]
+  },
+  "public_holiday": {
+    "barcelona_city": [
+      {
+        "time": "00:00",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.24,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.8,
+          "urban_street": 32.7,
+          "main_road": 54.5,
+          "beltway": 87.2,
+          "highway": 130.8
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.4,
+          "urban_street": 32.1,
+          "main_road": 53.5,
+          "beltway": 85.6,
+          "highway": 128.4
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.0,
+          "urban_street": 31.5,
+          "main_road": 52.5,
+          "beltway": 84.0,
+          "highway": 126.0
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.43,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.0,
+          "urban_street": 21.0,
+          "main_road": 35.0,
+          "beltway": 55.9,
+          "highway": 83.9
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      }
+    ],
+    "barcelona_metro": [
+      {
+        "time": "00:00",
+        "density": 0.33,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.32,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.31,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.29,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.47,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.72,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.1,
+          "urban_street": 31.7,
+          "main_road": 52.8,
+          "beltway": 84.5,
+          "highway": 126.7
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.58,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.7,
+          "urban_street": 19.0,
+          "main_road": 31.6,
+          "beltway": 50.6,
+          "highway": 75.9
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.58,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.7,
+          "urban_street": 19.0,
+          "main_road": 31.6,
+          "beltway": 50.6,
+          "highway": 75.9
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      }
+    ]
+  },
+  "holiday_eve": {
+    "barcelona_city": [
+      {
+        "time": "00:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.24,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.19,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.39,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.4,
+          "urban_street": 32.1,
+          "main_road": 53.5,
+          "beltway": 85.6,
+          "highway": 128.4
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.33,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.0,
+          "urban_street": 22.6,
+          "main_road": 37.6,
+          "beltway": 60.2,
+          "highway": 90.2
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.7,
+          "urban_street": 25.0,
+          "main_road": 41.7,
+          "beltway": 66.7,
+          "highway": 100.0
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.07,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.7,
+          "urban_street": 28.0,
+          "main_road": 46.7,
+          "beltway": 74.8,
+          "highway": 112.1
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.0,
+          "urban_street": 31.5,
+          "main_road": 52.5,
+          "beltway": 84.0,
+          "highway": 126.0
+        }
+      }
+    ],
+    "barcelona_metro": [
+      {
+        "time": "00:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.29,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.28,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.24,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.32,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.46,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.6,
+          "urban_street": 32.4,
+          "main_road": 54.0,
+          "beltway": 86.4,
+          "highway": 129.6
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.77,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.9,
+          "urban_street": 31.4,
+          "main_road": 52.3,
+          "beltway": 83.7,
+          "highway": 125.5
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 0.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.2,
+          "urban_street": 30.3,
+          "main_road": 50.5,
+          "beltway": 80.8,
+          "highway": 121.2
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.62,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.3,
+          "urban_street": 18.5,
+          "main_road": 30.9,
+          "beltway": 49.4,
+          "highway": 74.1
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.67,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.0,
+          "urban_street": 18.0,
+          "main_road": 29.9,
+          "beltway": 47.9,
+          "highway": 71.9
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.57,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.7,
+          "urban_street": 19.1,
+          "main_road": 31.8,
+          "beltway": 51.0,
+          "highway": 76.4
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.67,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.0,
+          "urban_street": 18.0,
+          "main_road": 29.9,
+          "beltway": 47.9,
+          "highway": 71.9
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.62,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.3,
+          "urban_street": 18.5,
+          "main_road": 30.9,
+          "beltway": 49.4,
+          "highway": 74.1
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.3,
+          "urban_street": 24.4,
+          "main_road": 40.7,
+          "beltway": 65.0,
+          "highway": 97.6
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 1.0,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20,
+          "urban_street": 30,
+          "main_road": 50,
+          "beltway": 80,
+          "highway": 120
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      }
+    ]
+  },
+  "bridging_workday": {
+    "barcelona_city": [
+      {
+        "time": "00:00",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.19,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.17,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.16,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.47,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.2,
+          "urban_street": 31.8,
+          "main_road": 53.0,
+          "beltway": 84.8,
+          "highway": 127.2
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 1.1,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.2,
+          "urban_street": 27.3,
+          "main_road": 45.5,
+          "beltway": 72.7,
+          "highway": 109.1
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.48,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.5,
+          "urban_street": 20.3,
+          "main_road": 33.8,
+          "beltway": 54.1,
+          "highway": 81.1
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.0,
+          "urban_street": 24.0,
+          "main_road": 40.0,
+          "beltway": 64.0,
+          "highway": 96.0
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.7,
+          "urban_street": 23.6,
+          "main_road": 39.4,
+          "beltway": 63.0,
+          "highway": 94.5
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.42,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.1,
+          "urban_street": 21.1,
+          "main_road": 35.2,
+          "beltway": 56.3,
+          "highway": 84.5
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.43,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.0,
+          "urban_street": 21.0,
+          "main_road": 35.0,
+          "beltway": 55.9,
+          "highway": 83.9
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.1,
+          "urban_street": 16.7,
+          "main_road": 27.8,
+          "beltway": 44.4,
+          "highway": 66.7
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.4,
+          "urban_street": 17.1,
+          "main_road": 28.6,
+          "beltway": 45.7,
+          "highway": 68.6
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.7,
+          "urban_street": 23.6,
+          "main_road": 39.4,
+          "beltway": 63.0,
+          "highway": 94.5
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.15,
+        "average_speed_kmh": {
+          "pedestrian_zone": 17.4,
+          "urban_street": 26.1,
+          "main_road": 43.5,
+          "beltway": 69.6,
+          "highway": 104.3
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.02,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.6,
+          "urban_street": 29.4,
+          "main_road": 49.0,
+          "beltway": 78.4,
+          "highway": 117.6
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 0.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.4,
+          "urban_street": 30.6,
+          "main_road": 51.0,
+          "beltway": 81.6,
+          "highway": 122.4
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.78,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.9,
+          "urban_street": 31.3,
+          "main_road": 52.2,
+          "beltway": 83.5,
+          "highway": 125.3
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.4,
+          "urban_street": 32.1,
+          "main_road": 53.5,
+          "beltway": 85.6,
+          "highway": 128.4
+        }
+      }
+    ],
+    "barcelona_metro": [
+      {
+        "time": "00:00",
+        "density": 0.27,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "00:30",
+        "density": 0.26,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:00",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "01:30",
+        "density": 0.24,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:00",
+        "density": 0.23,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "02:30",
+        "density": 0.22,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:00",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "03:30",
+        "density": 0.21,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:00",
+        "density": 0.2,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "04:30",
+        "density": 0.25,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:00",
+        "density": 0.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 22.0,
+          "urban_street": 33.0,
+          "main_road": 55.0,
+          "beltway": 88.0,
+          "highway": 132.0
+        }
+      },
+      {
+        "time": "05:30",
+        "density": 0.57,
+        "average_speed_kmh": {
+          "pedestrian_zone": 21.7,
+          "urban_street": 32.6,
+          "main_road": 54.3,
+          "beltway": 86.9,
+          "highway": 130.3
+        }
+      },
+      {
+        "time": "06:00",
+        "density": 0.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.6,
+          "urban_street": 30.9,
+          "main_road": 51.5,
+          "beltway": 82.4,
+          "highway": 123.6
+        }
+      },
+      {
+        "time": "06:30",
+        "density": 1.07,
+        "average_speed_kmh": {
+          "pedestrian_zone": 18.7,
+          "urban_street": 28.0,
+          "main_road": 46.7,
+          "beltway": 74.8,
+          "highway": 112.1
+        }
+      },
+      {
+        "time": "07:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "07:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "08:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "08:30",
+        "density": 1.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.4,
+          "urban_street": 17.1,
+          "main_road": 28.6,
+          "beltway": 45.7,
+          "highway": 68.6
+        }
+      },
+      {
+        "time": "09:00",
+        "density": 1.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.1,
+          "urban_street": 16.7,
+          "main_road": 27.8,
+          "beltway": 44.4,
+          "highway": 66.7
+        }
+      },
+      {
+        "time": "09:30",
+        "density": 1.62,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.3,
+          "urban_street": 18.5,
+          "main_road": 30.9,
+          "beltway": 49.4,
+          "highway": 74.1
+        }
+      },
+      {
+        "time": "10:00",
+        "density": 1.45,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.8,
+          "urban_street": 20.7,
+          "main_road": 34.5,
+          "beltway": 55.2,
+          "highway": 82.8
+        }
+      },
+      {
+        "time": "10:30",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "11:00",
+        "density": 1.35,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.8,
+          "urban_street": 22.2,
+          "main_road": 37.0,
+          "beltway": 59.3,
+          "highway": 88.9
+        }
+      },
+      {
+        "time": "11:30",
+        "density": 1.38,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.5,
+          "urban_street": 21.7,
+          "main_road": 36.2,
+          "beltway": 58.0,
+          "highway": 87.0
+        }
+      },
+      {
+        "time": "12:00",
+        "density": 1.4,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.3,
+          "urban_street": 21.4,
+          "main_road": 35.7,
+          "beltway": 57.1,
+          "highway": 85.7
+        }
+      },
+      {
+        "time": "12:30",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "13:00",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "13:30",
+        "density": 1.58,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.7,
+          "urban_street": 19.0,
+          "main_road": 31.6,
+          "beltway": 50.6,
+          "highway": 75.9
+        }
+      },
+      {
+        "time": "14:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "14:30",
+        "density": 1.52,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.2,
+          "urban_street": 19.7,
+          "main_road": 32.9,
+          "beltway": 52.6,
+          "highway": 78.9
+        }
+      },
+      {
+        "time": "15:00",
+        "density": 1.5,
+        "average_speed_kmh": {
+          "pedestrian_zone": 13.3,
+          "urban_street": 20.0,
+          "main_road": 33.3,
+          "beltway": 53.3,
+          "highway": 80.0
+        }
+      },
+      {
+        "time": "15:30",
+        "density": 1.6,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.5,
+          "urban_street": 18.8,
+          "main_road": 31.2,
+          "beltway": 50.0,
+          "highway": 75.0
+        }
+      },
+      {
+        "time": "16:00",
+        "density": 1.7,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.8,
+          "urban_street": 17.6,
+          "main_road": 29.4,
+          "beltway": 47.1,
+          "highway": 70.6
+        }
+      },
+      {
+        "time": "16:30",
+        "density": 1.82,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.0,
+          "urban_street": 16.5,
+          "main_road": 27.5,
+          "beltway": 44.0,
+          "highway": 65.9
+        }
+      },
+      {
+        "time": "17:00",
+        "density": 1.95,
+        "average_speed_kmh": {
+          "pedestrian_zone": 10.3,
+          "urban_street": 15.4,
+          "main_road": 25.6,
+          "beltway": 41.0,
+          "highway": 61.5
+        }
+      },
+      {
+        "time": "17:30",
+        "density": 1.9,
+        "average_speed_kmh": {
+          "pedestrian_zone": 10.5,
+          "urban_street": 15.8,
+          "main_road": 26.3,
+          "beltway": 42.1,
+          "highway": 63.2
+        }
+      },
+      {
+        "time": "18:00",
+        "density": 1.85,
+        "average_speed_kmh": {
+          "pedestrian_zone": 10.8,
+          "urban_street": 16.2,
+          "main_road": 27.0,
+          "beltway": 43.2,
+          "highway": 64.9
+        }
+      },
+      {
+        "time": "18:30",
+        "density": 1.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.1,
+          "urban_street": 16.7,
+          "main_road": 27.8,
+          "beltway": 44.4,
+          "highway": 66.7
+        }
+      },
+      {
+        "time": "19:00",
+        "density": 1.75,
+        "average_speed_kmh": {
+          "pedestrian_zone": 11.4,
+          "urban_street": 17.1,
+          "main_road": 28.6,
+          "beltway": 45.7,
+          "highway": 68.6
+        }
+      },
+      {
+        "time": "19:30",
+        "density": 1.65,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.1,
+          "urban_street": 18.2,
+          "main_road": 30.3,
+          "beltway": 48.5,
+          "highway": 72.7
+        }
+      },
+      {
+        "time": "20:00",
+        "density": 1.55,
+        "average_speed_kmh": {
+          "pedestrian_zone": 12.9,
+          "urban_street": 19.4,
+          "main_road": 32.3,
+          "beltway": 51.6,
+          "highway": 77.4
+        }
+      },
+      {
+        "time": "20:30",
+        "density": 1.43,
+        "average_speed_kmh": {
+          "pedestrian_zone": 14.0,
+          "urban_street": 21.0,
+          "main_road": 35.0,
+          "beltway": 55.9,
+          "highway": 83.9
+        }
+      },
+      {
+        "time": "21:00",
+        "density": 1.3,
+        "average_speed_kmh": {
+          "pedestrian_zone": 15.4,
+          "urban_street": 23.1,
+          "main_road": 38.5,
+          "beltway": 61.5,
+          "highway": 92.3
+        }
+      },
+      {
+        "time": "21:30",
+        "density": 1.18,
+        "average_speed_kmh": {
+          "pedestrian_zone": 16.9,
+          "urban_street": 25.4,
+          "main_road": 42.4,
+          "beltway": 67.8,
+          "highway": 101.7
+        }
+      },
+      {
+        "time": "22:00",
+        "density": 1.05,
+        "average_speed_kmh": {
+          "pedestrian_zone": 19.0,
+          "urban_street": 28.6,
+          "main_road": 47.6,
+          "beltway": 76.2,
+          "highway": 114.3
+        }
+      },
+      {
+        "time": "22:30",
+        "density": 0.93,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.3,
+          "urban_street": 30.4,
+          "main_road": 50.7,
+          "beltway": 81.1,
+          "highway": 121.7
+        }
+      },
+      {
+        "time": "23:00",
+        "density": 0.8,
+        "average_speed_kmh": {
+          "pedestrian_zone": 20.8,
+          "urban_street": 31.2,
+          "main_road": 52.0,
+          "beltway": 83.2,
+          "highway": 124.8
+        }
+      }
+    ]
+  }
+}
