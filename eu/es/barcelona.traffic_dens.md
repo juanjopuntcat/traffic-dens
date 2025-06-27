@@ -1,8 +1,11 @@
 # Barcelona Traffic Density
 
-Author:     Juanjo Rubio (https://github.com/juanjopuntcat/traffic-dens)
-Version:    1.0
-Date        27 Jun 2025
+## Information of the file
+- **Author**: [Juanjo Rubio](https://github.com/juanjopuntcat)
+- **Contributions**:
+  - [Juanjo Rubio](https://github.com/juanjopuntcat)
+- **Version**: 1.0
+- **Date**: 27 Jun 2025
 
 ## Sources
 
