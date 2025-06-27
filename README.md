@@ -4,7 +4,7 @@ This repository provides estimated traffic density profiles and vehicle speed mo
 
 ## Repository Structure
 
-``
+```
     traffic-dens/
         ├── *region*
         │ └── *country*
@@ -12,7 +12,7 @@ This repository provides estimated traffic density profiles and vehicle speed mo
         │   └── *city*.traffic_dens.md # APA-sourced documentation in Markdown
         ├── LICENSE
         └── README.md
-``
+```
 
 ## Dataset Overview
 
@@ -31,7 +31,7 @@ This repository provides estimated traffic density profiles and vehicle speed mo
 
 ## Documentation
 
-See `city.traffic_dens.md` for full APA 7th edition references used to construct this model. Data is based on:
+See `city.traffic_dens.md` for full [APA 7th edition](https://en.wikipedia.org/wiki/APA_style) references used to construct this model. Data is based on:
 
 - Public data from many open data sources, public and private
 - Academic literature and traffic simulation models
